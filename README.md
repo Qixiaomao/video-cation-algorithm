@@ -1,4 +1,5 @@
-![alt text](image-1.png)
+<img width="959" height="441" alt="image" src="https://github.com/user-attachments/assets/5b32f236-75f2-4ca2-a23e-04ed93524604" />
+
 
 # Video Captioning System with ViT + GPT-2 and Chainlit Front-end
 
@@ -27,7 +28,8 @@ The project provides:
 ---
 #### 📈 Model Architecture
 
-![alt text](image-2.png)
+<img width="1005" height="539" alt="image" src="https://github.com/user-attachments/assets/a68c3ae1-e26c-4633-93c8-4ed88a365366" />
+
 
 
 ---
@@ -152,5 +154,6 @@ Generate captions interactively
 2. cd video-captioning-project
 
 3. chainlit run chainlit_app.py -w
+
 
 ```
